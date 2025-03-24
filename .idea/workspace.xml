@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a51e22e4-5ffd-4122-bffe-b14d204997c8" name="Changes" comment="add piaa_lb3" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="web" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Nofexxx&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Nofexxx/university_works.git&quot;,
+    &quot;accountId&quot;: &quot;f3bb776e-68c1-43ce-b299-3e04894de73a&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2umVZG2omEWeZ5m40M8GccQbRca" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "last_opened_file_path": "C:/Users/Alex/PycharmProjects/university_works",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alex\PycharmProjects\university_works\piaa_lb4" />
+      <recent name="C:\Users\Alex\PycharmProjects\university_works\piaa_lb3" />
+      <recent name="C:\Users\Alex\PycharmProjects\university_works\piaa_lb2" />
+      <recent name="C:\Users\Alex\PycharmProjects\university_works\piaa_lb2\src" />
+      <recent name="C:\Users\Alex\PycharmProjects\university_works\piaa_lb1" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.25659.43" />
+        <option value="bundled-python-sdk-181015f7ab06-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.25659.43" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a51e22e4-5ffd-4122-bffe-b14d204997c8" name="Changes" comment="" />
+      <created>1742853789857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742853789857</updated>
+      <workItem from="1742853790904" duration="522000" />
+      <workItem from="1742854392914" duration="5152000" />
+    </task>
+    <task id="LOCAL-00001" summary="add alg_lb4">
+      <option name="closed" value="true" />
+      <created>1742854157080</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742854157080</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add alg_lb3">
+      <option name="closed" value="true" />
+      <created>1742854579944</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742854579944</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add alg_lb2">
+      <option name="closed" value="true" />
+      <created>1742854899855</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742854899855</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add alg_lb1">
+      <option name="closed" value="true" />
+      <created>1742855035630</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742855035630</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add alg_cw">
+      <option name="closed" value="true" />
+      <created>1742855205946</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1742855205946</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add pr_fcourse_lb1">
+      <option name="closed" value="true" />
+      <created>1742855791310</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1742855791310</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add pr_fcourse_lb2">
+      <option name="closed" value="true" />
+      <created>1742856147182</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1742856147182</updated>
+    </task>
+    <task id="LOCAL-00008" summary="replace files in pr_fcourse_lb2">
+      <option name="closed" value="true" />
+      <created>1742856522076</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1742856522076</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add pr_fcourse_cw">
+      <option name="closed" value="true" />
+      <created>1742856790177</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1742856790177</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add pr_fcourse_lb3">
+      <option name="closed" value="true" />
+      <created>1742856959784</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1742856959784</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add pr_scourse_lb1">
+      <option name="closed" value="true" />
+      <created>1742857243463</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1742857243463</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add pr_scourse_lb2">
+      <option name="closed" value="true" />
+      <created>1742857338525</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1742857338525</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add pr_scourse_cw">
+      <option name="closed" value="true" />
+      <created>1742857546552</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1742857546552</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add piaa_lb1">
+      <option name="closed" value="true" />
+      <created>1742858110952</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1742858110952</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add piaa_lb2">
+      <option name="closed" value="true" />
+      <created>1742858787259</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1742858787259</updated>
+    </task>
+    <task id="LOCAL-00016" summary="add piaa_lb3">
+      <option name="closed" value="true" />
+      <created>1742859095811</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1742859095811</updated>
+    </task>
+    <task id="LOCAL-00017" summary="add piaa_lb3">
+      <option name="closed" value="true" />
+      <created>1742859322779</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1742859322779</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add alg_lb4" />
+    <MESSAGE value="add alg_lb3" />
+    <MESSAGE value="add alg_lb2" />
+    <MESSAGE value="add alg_lb1" />
+    <MESSAGE value="add alg_cw" />
+    <MESSAGE value="add pr_fcourse_lb1" />
+    <MESSAGE value="add pr_fcourse_lb2" />
+    <MESSAGE value="replace files in pr_fcourse_lb2" />
+    <MESSAGE value="add pr_fcourse_cw" />
+    <MESSAGE value="add pr_fcourse_lb3" />
+    <MESSAGE value="add pr_scourse_lb1" />
+    <MESSAGE value="add pr_scourse_lb2" />
+    <MESSAGE value="add pr_scourse_cw" />
+    <MESSAGE value="add piaa_lb1" />
+    <MESSAGE value="add piaa_lb2" />
+    <MESSAGE value="add piaa_lb3" />
+    <option name="LAST_COMMIT_MESSAGE" value="add piaa_lb3" />
+  </component>
+</project>
