@@ -1,1 +1,0 @@
-int multi_before_and_after_negative(int s[], int len);

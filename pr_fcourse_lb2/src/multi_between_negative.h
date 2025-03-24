@@ -1,1 +1,0 @@
-int multi_between_negative(int s[], int len);
